@@ -1,62 +1,20 @@
-# flutter_tinder_clone_app
+This is dating app like tinder using flutter framework.
 
-A new Flutter project.
+Available Fetures in this app
 
-## Getting Started
-
-
-flutter_tinder_clone_app Project has "main.dart" as Entry Point.
-
-- [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
-- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
-- [Drop me your message](https://twitter.com/khandla20)
-
-https://user-images.githubusercontent.com/48312656/117864421-4084de80-b241-11eb-9dcd-37458859cd58.mp4
+- video call
+- realtime chat
+- Geo location wise user display
+- live streaming(broadcasting)
+- profile management
+- in app-purchase
+- matching system
+- delete account
 
 
-= = = To Generate Android release steps = = =
-
-Generate FAT APK 
-- flutter clean 
-- flutter build apk --release
-
-Generate split APK's 
-- flutter clean
-- flutter build apk --split-per-abi --release
-
-= = = iOS release steps = = =
-
-Set iOS deployment target
-
-Follow below steps
-
-- setup flutter sdk
-- get packages
-- open runner.xcworkspace from ids folder
-- update version code in yaml
+For security purpose,i did upload only demo app(not full app code), if you are interested so contact me, i have working code.
 
 
-Bellow commands will generate the runner.app file
 
-- flutter clean
-- flutter build ios --release
-
-
-Now open the xcode run/build to check if project has error
-
-Select Product -> Archive
-Follow the uploading steps
-
-𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ??
-
-- [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
-- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
-- [Drop me your message](https://twitter.com/khandla20)
-
-
-𝐄𝐦𝐚𝐢𝐥 : 𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
-𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
-
-𝐊𝐢𝐧𝐝 𝐑𝐞𝐠𝐚𝐫𝐝𝐬, 
-𝐊𝐚𝐥𝐩𝐞𝐬𝐡 𝐊𝐡𝐚𝐧𝐝𝐥𝐚
+https://github.com/user-attachments/assets/cdffa302-fd9b-4783-be1e-46d3c28f846a
 
