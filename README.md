@@ -12,7 +12,7 @@ Available Fetures in this app
 - delete account
 
 
-For security purpose,i did upload only demo app(not full app code), if you are interested so contact me, i have working code.
+For security purpose, I have uploaded demo app only (not full app code), if you are interested contact me, I have working code.
 
 
 
